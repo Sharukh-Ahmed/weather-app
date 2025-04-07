@@ -2,6 +2,10 @@
 
 A modern React-based weather application that provides real-time weather information and forecasts for cities worldwide. Built with React and powered by OpenWeather API.
 
+## 🌐 Live Demo
+
+**[View Live App](https://sharukh-ahmed.github.io/weather-app)**
+
 ## ✨ Features
 
 - 🔍 **Smart City Search**: Autocomplete search with support for global cities
@@ -17,6 +21,7 @@ A modern React-based weather application that provides real-time weather informa
 - GeoDB Cities API
 - CSS3
 - React Select Async Paginate
+- GitHub Pages (for deployment)
 
 ## 🚀 Quick Start
 
@@ -43,6 +48,14 @@ REACT_APP_GEO_API_KEY=your_geodb_api_key
 npm start
 ```
 
+## 🚀 Deployment
+
+The app is deployed using GitHub Pages. To deploy new changes:
+
+```bash
+npm run deploy
+```
+
 ## 💡 Usage
 
 1. Enter a city name in the search bar
@@ -52,7 +65,7 @@ npm start
 
 ## 📝 License
 
-MIT License © [Sharukh-Ahmed]
+MIT License © [Your Name]
 
 ## 🤝 Contributing
 
