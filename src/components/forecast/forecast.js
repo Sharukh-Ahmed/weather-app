@@ -18,7 +18,7 @@ const Forecast = ({ data }) => {
                         <AccordionItemHeading>
                             <AccordionItemButton>
                                 <div className="daily-item">
-                                    <img alt="weather" className="icon-small" src={`icons/${item.weather[0].icon}.png`}></img>
+                                    <img alt="weather" className="icon-small" src={`https://raw.githubusercontent.com/Sharukh-Ahmed/weather-app/main/public/icons/${item.weather[0].icon}.png`}></img>
                                     <label className="day">{forecastDays[idx]}</label>
                                     <label className="description">{item.weather[0].description}</label>
                                     <label className="min-max">{Math.round(item.main.temp_min)}°C /{Math.round(item.main.temp_max)}°C </label>

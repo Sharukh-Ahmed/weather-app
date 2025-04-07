@@ -1,4 +1,6 @@
 {
+    "homepage":  
+  "https://sharukh-ahmed.github.io/weather-app",
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
@@ -43,7 +45,6 @@
   "devDependencies": {
     "gh": "^2.8.9",
     "gh-pages": "^6.3.0"
-  },
-  "homepage":  
-  "https://sharukh-ahmed.github.io/weather-app"
+  }
+
 }
