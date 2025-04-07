@@ -21,40 +21,12 @@ A modern React-based weather application that provides real-time weather informa
 - GeoDB Cities API
 - CSS3
 - React Select Async Paginate
+- Accordion
 - GitHub Pages (for deployment)
-
-## 🚀 Quick Start
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
-```
-
-2. **Install dependencies:**
-```bash
-npm install
-```
-
-3. **Set up environment variables:**
-Create a `.env` file and add:
-```
-REACT_APP_WEATHER_API_KEY=your_openweather_api_key
-REACT_APP_GEO_API_KEY=your_geodb_api_key
-```
-
-4. **Start development server:**
-```bash
-npm start
-```
 
 ## 🚀 Deployment
 
 The app is deployed using GitHub Pages. To deploy new changes:
-
-```bash
-npm run deploy
-```
 
 ## 💡 Usage
 
@@ -65,7 +37,7 @@ npm run deploy
 
 ## 📝 License
 
-MIT License © [Your Name]
+MIT License © Sharukh-Ahmed
 
 ## 🤝 Contributing
 
