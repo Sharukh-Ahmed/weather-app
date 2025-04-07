@@ -10,7 +10,7 @@ A modern React-based weather application that provides real-time weather informa
 
 - 🔍 **Smart City Search**: Autocomplete search with support for global cities
 - 🌡️ **Current Weather**: Real-time temperature, conditions, and key metrics
-- 📅 **5-Day Forecast**: Detailed weather predictions
+- 📅 **7-Day Forecast**: Detailed weather predictions
 - 📱 **Responsive Design**: Optimized for both desktop and mobile
 - 🎨 **Modern UI**: Clean interface with gradient backgrounds
 
