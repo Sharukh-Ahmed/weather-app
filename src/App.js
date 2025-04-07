@@ -38,6 +38,26 @@ function App() {
       <Search onSearchChange={handleOnSearchChange} />
       {currentWeather && <CurrentWeather data={currentWeather} />}
       {forecast && <Forecast data={forecast} />}
+
+      <hr style={{
+        margin: "2rem auto",
+        width: "80%",
+        border: "0",
+        height: "2px",
+        background: "linear-gradient(to right, transparent, #2c3e50, transparent)"
+      }} />
+      <div className="about-section">
+        <h2>About This Project</h2>
+        <p>
+          Created by Sharukh Ahmed, this weather application provides real-time
+          weather information using OpenWeather API and GeoDB Cities API.
+          Built with React and modern web technologies.
+        </p>
+      </div>
+      
+      <footer className="footer">
+        <p>© {new Date().getFullYear()} Sharukh-Ahmed. All rights reserved.</p>
+      </footer>
     </div>
   );
 }
